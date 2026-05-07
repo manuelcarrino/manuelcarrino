@@ -2,39 +2,43 @@
 
 # Manuel Carrino
 **Future Software Engineer | Computer Science Student**
-
-📍 Naples, Italy  
-📧 [manucarrino@gmail.com](mailto:manucarrino@gmail.com)  
-🔗 [GitHub](https://github.com/manuelcarrino)
-
----
-
+📍 Naples, Italy
+📧 manucarrino@gmail.com
+🔗 GitHub
 ### 👤 Profile
 Studente di Informatica appassionato di architettura del software e problem solving algoritmico. Il mio percorso è guidato dalla volontà di trasformare la teoria ingegneristica in soluzioni digitali efficienti, sicure e scalabili.
-
 > *"L'obiettivo non è solo scrivere codice che funzioni, ma progettare sistemi che durino."*
-
----
-
+> 
 ### 🎓 Education
-**[span_0](start_span)Università degli Studi di Napoli Federico II (L-31)** *Laureando in Scienze e Tecnologie Informatiche* 📅 2023 - In corso[span_0](end_span)
-
-**ITI "F. Morano" Caivano (NA)** *Diploma di Istruzione Tecnica - Specializzazione Informatica* 📅 a.a. [span_1](start_span)2022-2023[span_1](end_span)
-
----
-
+ * **Università degli Studi di Napoli Federico II (L-31)** *Laureando in Scienze e Tecnologie Informatiche*
+   📅 2023 - In corso
+ * **ITI "F. Morano" Caivano (NA)** *Diploma di Istruzione Tecnica - Specializzazione Informatica*
+   📅 a.a. 2018-2023
 ### 🛠 Technical Skills
-* **Languages:** Java (OOP), C++ (Algoritmi e Strutture Dati), JavaScript, HTML5, CSS3.
-* **Core Competencies:** Ingegneria del Software, Programmazione ad Oggetti, Tecnologie Web.
-* **[span_2](start_span)Systems & Networking:** Configurazione, installazione e gestione di sistemi di elaborazione dati e reti[span_2](end_span).
-* **[span_3](start_span)Methodology:** Approccio metodico al problem-solving e redazione di documentazione tecnica[span_3](end_span).
-
----
-
+ * **Languages:** Java (OOP), C++ (Algoritmi e Strutture Dati), JavaScript, HTML5, CSS3.
+ * **Core Competencies:** Sviluppo di applicazioni informatiche per reti locali o servizi a distanza.
+ * **Systems & Networking:** Configurazione, installazione e gestione di sistemi di elaborazione dati e reti.
+ * **Methodology:** Approccio metodico al problem-solving e redazione di relazioni tecniche e documentazione.
+ * **Standards:** Gestione progetti secondo procedure e standard aziendali di qualità e sicurezza.
 ### 🚀 Projects & Experience
-**Start-up & 3D Visualization (E.M.M S.r.l)** *Alternanza Scuola-Lavoro | [span_4](start_span)2022 - 2023* * Realizzazione di una piattaforma web per la visualizzazione di prodotti in 3D e redazione del Project Charter[span_4](end_span).
-
-**Global Safeguard IT (E.M.M S.r.l)** *Alternanza Scuola-Lavoro | [span_5](start_span)2021 - 2022* * Attività informatiche dedicate alla salvaguardia del globo[span_5](end_span).
+ * **Start-up & 3D Visualization (E.M.M S.r.l)** *Alternanza Scuola-Lavoro | 2022 - 2023*
+   * Realizzazione di una piattaforma web per la visualizzazione di prodotti in 3D.
+   * Redazione del Project Charter per la struttura della start-up.
+ * **Global Safeguard IT (E.M.M S.r.l)** *Alternanza Scuola-Lavoro | 2021 - 2022*
+   * Sviluppo di un progetto informatico dedicato alla salvaguardia del globo.
+ * **Web Development (STEP S.r.l)** *Alternanza Scuola-Lavoro | 2020 - 2021*
+   * Realizzazione di siti web innovativi tramite CMS WordPress.
+### 📜 Certifications & Merits
+ * **Steps4Planet@hack:** Attestato di merito per lo sviluppo di idee innovative (2022).
+ * **STEM2:** Specializzazione in impiantistica, elettronica ed informatica (2023).
+ * **English B2:** Certificazione linguistica e partecipazione al corso B2.
+ * **Coding e Robotica:** Corso di specializzazione presso I.C. "S. Quasimodo".
+ * **Domotica:** Corso "Time for Action" per sistemi di automazione (2021).
+ * **Merito Tecnico:** Riconoscimento presso STEP S.r.l per lo sviluppo di idee innovative.
+### 🧠 Soft Skills
+ * **Collaborazione:** Ottima flessibilità e spirito di collaborazione all'interno di team di lavoro.
+ * **Comunicazione:** Spiccate doti comunicative ed organizzative in contesti professionali.
+ * **Linguistico:** Italiano (Madrelingua) e Inglese (Livello B2) per interazioni in ambiti professionali.
 
 **Web Development (STEP S.r.l)** *Alternanza Scuola-Lavoro | [span_6](start_span)2020 - 2021* * Realizzazione di siti web innovativi tramite CMS WordPress[span_6](end_span).
 
